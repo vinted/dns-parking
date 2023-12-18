@@ -1,0 +1,12 @@
+{
+  "SOARname": "domains.parking.com",
+  "SOASerial": "2023121801",
+  "SOARefresh": "86400",
+  "SOARetry": "7200",
+  "SOAExpire": "3600000",
+  "SOATTL": "3600",
+  "NS": [
+    "ns1.parking.com",
+    "ns2.parking.com"
+  ]
+}
